@@ -1,7 +1,7 @@
 # World War II Database Management System Project
 
-## Overview  
-This project is a comprehensive Database Management System (DBMS) for analyzing and managing data related to **World War II**. It includes functionalities such as insertion, modification, projection, and deletion of data stored in a relational database. The database contains normalized tables in **1NF**, **2NF**, and **3NF**, ensuring data integrity and efficient query processing.
+## Overview
+### This project is a comprehensive Database Management System (DBMS) for analyzing and managing data related to **World War II**. It includes functionalities such as insertion, modification, projection, and deletion of data stored in a relational database. The database contains normalized tables in **1NF**, **2NF**, and **3NF**, ensuring data integrity and efficient query processing.
 ---
 
 ## Features  
